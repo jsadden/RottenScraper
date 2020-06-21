@@ -1,0 +1,670 @@
+Movie Title	Critic Rating	Critic Rating Count	User Rating	User Rating Count	Genre
+Bad Boys for Life	77%	250	96%	42,938	action
+Scoob!	50%	111	61%	1,149	action
+Sonic the Hedgehog	64%	223	93%	19,406	action
+Dolittle	14%	220	76%	11,521	action
+The Rhythm Section	29%	166	44%	1,134	action
+The Hunt	56%	221	66%	937	action
+Jumanji: The Next Level	71%	233	87%	35,731	action
+Bloodshot	30%	152	78%	1,568	action
+Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn)	78%	394	78%	15,707	action
+The Plagues of Breslau (Plagi Breslau)	83%	6	51%	39	action
+Onward	88%	311	95%	8,597	action
+Underwater	48%	200	60%	2,857	action
+Robert the Bruce	44%	50	70%	158	action
+Black Ops	63%	8	NOT FOUND	NOT FOUND	action
+The Captain	75%	8	96%	55	action
+The Gentlemen	75%	252	84%	9,629	action
+Ip Man 4: The Finale	90%	30	95%	826	action
+Clover	29%	17	NOT FOUND	NOT FOUND	action
+Mortal Kombat Legends: Scorpion's Revenge	89%	18	85%	249	action
+Extraction	68%	188	69%	3,307	action
+Villain	73%	22	NOT FOUND	NOT FOUND	action
+Justice League Dark: Apokolips War	100%	15	91%	667	action
+I Am Vengeance: Retaliation	50%	6	NOT FOUND	NOT FOUND	action
+Survive the Night	17%	12	76%	297	action
+Coffee & Kareem	20%	66	31%	365	action
+The Main Event	28%	18	24%	54	action
+Dreamland	47%	30	NOT FOUND	NOT FOUND	action
+Blood and Money	40%	20	67%	24	action
+Shooting Heroin	44%	9	95%	154	action
+Debt Collectors	90%	10	NOT FOUND	NOT FOUND	action
+Infamous	23%	22	49%	39	action
+Becky	68%	92	69%	196	action
+Star Wars: The Rise of Skywalker	51%	485	86%	98,236	action
+Frozen II	77%	315	92%	48,800	action
+Playmobil: The Movie	17%	60	62%	203	action
+Abominable	81%	161	95%	7,928	action
+Snatchers	100%	16	62%	117	action
+Charlie's Angels	51%	220	78%	2,619	action
+Gemini Man	26%	300	83%	8,795	action
+Terminator: Dark Fate	70%	326	82%	13,004	action
+Spies in Disguise	75%	117	92%	8,316	action
+6 Underground	36%	90	60%	3,918	action
+The Witch: Subversion (Manyeo)	88%	16	87%	136	action
+Maleficent: Mistress of Evil	40%	251	95%	19,127	action
+Joker	68%	555	88%	66,291	action
+Zombieland: Double Tap	68%	235	88%	11,198	action
+Rambo: Last Blood	27%	165	82%	8,119	action
+The (Silent) War (Sordo)	56%	9	10%	10	action
+The Corrupted	30%	10	36%	11	action
+Escape and Evasion	80%	5	NOT FOUND	NOT FOUND	action
+First Love (Hatsukoi)	97%	109	88%	33	action
+Union	64%	11	NOT FOUND	NOT FOUND	action
+Pokémon the Movie: Mewtwo Strikes Back Evolution	44%	9	42%	116	action
+Ne Zha	88%	17	98%	426	action
+The Great Alaskan Race	11%	9	NOT FOUND	NOT FOUND	action
+Guns Akimbo	55%	62	40%	5	action
+VFW	80%	50	63%	110	action
+The Climbers	33%	6	80%	45	action
+Hell on the Border	40%	5	43%	14	action
+Invasion Planet Earth	0%	5	36%	11	action
+Toy Story 4	97%	429	94%	53,146	animation
+Frozen II	77%	315	92%	48,800	animation
+Scoob!	50%	111	61%	1,149	animation
+The Secret Life of Pets 2	60%	155	90%	21,933	animation
+Wonder Park	34%	104	44%	671	animation
+Playmobil: The Movie	17%	60	62%	203	animation
+Abominable	81%	161	95%	7,928	animation
+UglyDolls	27%	85	55%	1,065	animation
+The Willoughbys	90%	60	65%	382	animation
+The Lion King	53%	407	88%	76,335	animation
+The Angry Birds Movie 2	73%	107	84%	4,023	animation
+Rocko's Modern Life: Static Cling	92%	24	68%	285	animation
+Liyana	100%	33	74%	93	animation
+Dumbo	47%	352	48%	4,382	animation
+Trolls World Tour	70%	139	60%	833	animation
+Spies in Disguise	75%	117	92%	8,316	animation
+Pokémon Detective Pikachu	68%	296	79%	16,435	animation
+A Shaun the Sheep Movie: Farmageddon	96%	72	79%	222	animation
+The Addams Family	44%	153	69%	10,314	animation
+Missing Link	89%	160	67%	884	animation
+Dilili in Paris (Dilili à Paris)	61%	23	NOT FOUND	NOT FOUND	animation
+Onward	88%	311	95%	8,597	animation
+Batman vs Teenage Mutant Ninja Turtles	100%	12	85%	223	animation
+I Lost My Body	96%	75	84%	501	animation
+Invader Zim: Enter the Florpus	100%	21	88%	32	animation
+Klaus	94%	65	97%	1,937	animation
+Pokémon the Movie: Mewtwo Strikes Back Evolution	44%	9	42%	116	animation
+Ne Zha	88%	17	98%	426	animation
+To Your Last Death	70%	10	100%	14	animation
+Superman: Red Son	88%	16	64%	292	animation
+Mortal Kombat Legends: Scorpion's Revenge	89%	18	85%	249	animation
+Altered Carbon: Resleeved	60%	5	53%	73	animation
+Mind Game	100%	10	93%	3,381	animation
+The Grinch	59%	184	50%	12,869	animation
+How to Train Your Dragon: The Hidden World	91%	255	86%	56,220	animation
+Ferdinand	71%	119	51%	6,944	animation
+The LEGO Movie 2: The Second Part	85%	283	68%	28,612	animation
+Mowgli: Legend of the Jungle	53%	102	52%	1,830	animation
+Incredibles 2	94%	373	84%	18,249	animation
+Hotel Transylvania 3: Summer Vacation	62%	116	48%	3,427	animation
+Sherlock Gnomes	27%	64	35%	1,615	animation
+Peter Rabbit	64%	144	56%	3,383	animation
+The Breadwinner	95%	103	86%	1,988	animation
+Ralph Breaks the Internet	88%	266	65%	8,548	animation
+Isle of Dogs	90%	351	87%	8,975	animation
+Early Man	81%	172	49%	2,194	animation
+Sgt. Stubby: An American Hero	89%	45	92%	699	animation
+Paddington 2	100%	239	88%	8,097	animation
+Son of Bigfoot	76%	21	40%	369	animation
+Smallfoot	76%	122	62%	2,148	animation
+Tehran Taboo	97%	36	81%	216	animation
+Lu Over the Wall (Yoake tsugeru Rû no uta)	77%	43	67%	131	animation
+Mary and The Witch's Flower	89%	88	71%	1,444	animation
+The Little Vampire 3D	14%	14	52%	90	animation
+Spider-Man: Into the Spider-Verse	97%	375	93%	19,722	animation
+Batman Ninja	82%	17	39%	1,105	animation
+Teen Titans Go! To the Movies	91%	129	72%	3,492	animation
+White Fang (Croc-Blanc)	80%	10	76%	174	animation
+A Wizard's Tale (Here Comes the Grump)	20%	5	75%	34	animation
+Mirai	91%	80	80%	894	animation
+Quartet	44%	16	32%	112	art & foreign
+The Return of Martin Guerre (Le Retour de Martin Guerre)	100%	16	80%	2,881	art & foreign
+SoulMate	100%	8	78%	139	art & foreign
+The Last Photograph	71%	7	57%	10	art & foreign
+Liyana	100%	33	74%	93	art & foreign
+The Other Side of Everything (Druga strana svega)	90%	10	83%	31	art & foreign
+My Son (Mon garçon)	57%	21	15%	14	art & foreign
+The Bastards' Fig Tree (La higuera de los bastardos)	73%	11	NOT FOUND	NOT FOUND	art & foreign
+Four Hands (Die Vierhändige)	83%	12	33%	17	art & foreign
+White Lightning	86%	7	61%	1,644	classics
+The Long Goodbye	97%	35	88%	10,282	classics
+King of Hearts	89%	18	88%	3,918	classics
+Topkapi	90%	21	67%	2,140	classics
+Billion Dollar Brain	50%	6	41%	2,578	classics
+Run Silent, Run Deep	100%	8	79%	5,562	classics
+Young at Heart	86%	7	78%	3,142	classics
+Sherlock Jr.	95%	22	95%	6,923	classics
+Buffalo Bill and the Indians, or Sitting Bull's History Lesson	67%	15	49%	2,109	classics
+Odd Man Out	100%	30	86%	1,967	classics
+Cavalcade	61%	28	26%	1,020	classics
+Too Late Blues	86%	7	72%	402	classics
+The Savage Innocents	75%	12	74%	554	classics
+Safety Last!	97%	31	94%	3,738	classics
+A New Leaf	100%	35	83%	998	classics
+Love with the Proper Stranger	80%	10	87%	1,437	classics
+Caught	100%	8	78%	515	classics
+The Big Parade	100%	11	91%	792	classics
+Sometimes a Great Notion (Never Give an Inch)	100%	13	77%	850	classics
+Judex	90%	10	82%	388	classics
+The Freshman (College Days)	93%	15	79%	311	classics
+Moonrise	100%	9	74%	265	classics
+The Incredible Journey	89%	9	77%	524	classics
+Shakespeare Wallah	89%	9	64%	181	classics
+The Young Savages	43%	7	47%	152	classics
+The Night Visitor	13%	8	50%	111	classics
+The Killer Is Loose	60%	5	35%	106	classics
+The Strange Affair of Uncle Harry (Guilty of Murder?)	80%	5	67%	84	classics
+Great Expectations	68%	80	49%	8,128	classics
+Noah	76%	259	41%	122,203	classics
+Exodus: Gods and Kings	30%	204	35%	60,019	classics
+Ben-Hur	25%	188	53%	18,989	classics
+Limelight	97%	32	90%	7,281	classics
+Wings	93%	44	78%	3,521	classics
+Father Goose	80%	15	86%	9,269	classics
+Long Day's Journey Into Night	94%	17	86%	3,064	classics
+The Grass Is Greener	88%	8	65%	2,958	classics
+The Enforcer	88%	8	70%	1,292	classics
+Samson and Delilah	63%	8	58%	2,071	classics
+Shoeshine (Sciuscià)	100%	6	92%	1,028	classics
+Kes	100%	31	91%	9,149	classics
+The Magnificent Ambersons	90%	41	85%	6,450	classics
+The Devil and Miss Jones	100%	7	82%	583	classics
+Champion	93%	14	74%	733	classics
+Lili	100%	7	82%	989	classics
+Maytime	100%	5	88%	460	classics
+The Brothers Karamazov	30%	10	60%	542	classics
+In Old Arizona	56%	9	39%	354	classics
+Dangerous	83%	6	62%	693	classics
+My Little Chickadee	91%	11	63%	724	classics
+Northwest Passage	100%	6	68%	574	classics
+Blossoms in the Dust	33%	9	72%	376	classics
+Hail the Conquering Hero	95%	20	85%	609	classics
+Marketa Lazarová	100%	11	87%	601	classics
+Rose Marie	83%	6	73%	266	classics
+Not as a Stranger (Morton Thompson's Not as a Stranger)	13%	8	54%	254	classics
+Wild River	100%	12	83%	529	classics
+Bride Flight	67%	39	75%	1,310	classics
+Baarìa	55%	11	50%	1,218	classics
+The Eagle	40%	155	41%	42,602	classics
+Scoob!	50%	111	61%	1,149	comedy
+The Willoughbys	90%	60	65%	382	comedy
+Trolls World Tour	70%	139	60%	833	comedy
+Valley Girl	57%	47	91%	282	comedy
+Bit	90%	10	38%	34	comedy
+Why Don't You Just Die! (Papa, sdokhni)	97%	65	NOT FOUND	NOT FOUND	comedy
+Fantasy Island	8%	101	48%	3,567	comedy
+Mope	56%	16	NOT FOUND	NOT FOUND	comedy
+Olympic Dreams	68%	47	60%	25	comedy
+Porno	80%	40	NOT FOUND	NOT FOUND	comedy
+Saint Frances	96%	56	NOT FOUND	NOT FOUND	comedy
+Lucky Grandma	98%	43	83%	23	comedy
+Babyteeth	93%	58	NOT FOUND	NOT FOUND	comedy
+Military Wives	75%	106	55%	22	comedy
+Greed	48%	136	33%	46	comedy
+Butt Boy	70%	54	69%	42	comedy
+The Photograph	74%	103	81%	7,289	comedy
+Man Camp	100%	5	86%	7	comedy
+I Love You, Stupid (Te quiero, Imbécil)	63%	8	50%	10	comedy
+The King of Staten Island	72%	230	87%	1,110	comedy
+Vanilla	87%	15	NOT FOUND	NOT FOUND	comedy
+James VS His Future Self	100%	16	62%	16	comedy
+Bad Therapy	9%	11	NOT FOUND	NOT FOUND	comedy
+Arkansas	48%	56	NOT FOUND	NOT FOUND	comedy
+The Wrong Missy	35%	46	52%	811	comedy
+Dreamland	47%	30	NOT FOUND	NOT FOUND	comedy
+Rising High (Betonrausch)	33%	9	50%	12	comedy
+Think Like a Dog	75%	8	69%	13	comedy
+The Trip to Greece	88%	104	54%	41	comedy
+The Half of It	96%	85	81%	585	comedy
+The Bellmen	60%	5	NOT FOUND	NOT FOUND	comedy
+Jerry Seinfeld: 23 Hours to Kill	73%	15	50%	127	comedy
+Bad Boys for Life	77%	250	96%	42,938	comedy
+Playmobil: The Movie	17%	60	62%	203	comedy
+Sonic the Hedgehog	64%	223	93%	19,406	comedy
+She's Allergic to Cats	83%	12	NOT FOUND	NOT FOUND	comedy
+Dolittle	14%	220	76%	11,521	comedy
+Charlie's Angels	51%	220	78%	2,619	comedy
+Spies in Disguise	75%	117	92%	8,316	comedy
+Seven Stages to Achieve Eternal Bliss	63%	16	83%	28	comedy
+Jumanji: The Next Level	71%	233	87%	35,731	comedy
+Cats	21%	304	53%	6,963	comedy
+Banana Split	88%	49	65%	94	comedy
+It Started As a Joke	100%	10	100%	5	comedy
+Emma.	86%	222	72%	2,092	comedy
+Almost Love (Sell By)	67%	27	NOT FOUND	NOT FOUND	comedy
+Ghost Killers vs. Bloody Mary (Exterminadores do Além Contra a Loira do Banheiro)	50%	6	67%	9	comedy
+Guns Akimbo	55%	62	40%	5	comedy
+VHYes	80%	41	74%	19	comedy
+Like a Boss	21%	143	65%	3,422	comedy
+The Gentlemen	75%	252	84%	9,629	comedy
+International Falls	100%	9	77%	22	comedy
+Inside the Rain	84%	19	77%	22	comedy
+Impractical Jokers: The Movie	38%	24	76%	2,273	comedy
+Clover	29%	17	NOT FOUND	NOT FOUND	comedy
+Burning Dog	100%	5	NOT FOUND	NOT FOUND	comedy
+Spenser Confidential	38%	77	54%	998	comedy
+Resistance	56%	72	59%	68	comedy
+Hooking Up	32%	22	52%	40	comedy
+Lazy Susan	10%	10	NOT FOUND	NOT FOUND	comedy
+Caniba	59%	32	43%	19	documentary
+Trust Machine: The Story of Blockchain	90%	10	83%	55	documentary
+What She Said: The Art of Pauline Kael	87%	63	56%	23	documentary
+What You Gonna Do When the World's on Fire?	87%	47	NOT FOUND	NOT FOUND	documentary
+Pahokee	100%	22	NOT FOUND	NOT FOUND	documentary
+The Inventor: Out for Blood in Silicon Valley	78%	59	73%	185	documentary
+Miles Davis: Birth of the Cool	93%	57	83%	76	documentary
+It Started As a Joke	100%	10	100%	5	documentary
+Jump Shot: The Kenny Sailors Story	100%	13	98%	99	documentary
+Rewind	100%	39	NOT FOUND	NOT FOUND	documentary
+You Don't Nomi	89%	64	NOT FOUND	NOT FOUND	documentary
+Circus of Books	98%	52	86%	123	documentary
+Slay the Dragon	100%	44	59%	22	documentary
+Seahorse: The Dad Who Gave Birth	100%	12	NOT FOUND	NOT FOUND	documentary
+Cunningham	88%	59	100%	7	documentary
+There's Something in the Water	79%	14	NOT FOUND	NOT FOUND	documentary
+Crip Camp: A Disability Revolution	100%	79	92%	51	documentary
+Spaceship Earth	88%	97	67%	42	documentary
+The Painter and the Thief	96%	76	82%	28	documentary
+Lost in America	100%	7	100%	9	documentary
+LA Originals	86%	7	97%	220	documentary
+Streetlight Harmonies	100%	8	100%	7	documentary
+AKA Jane Roe	83%	12	67%	9	documentary
+Close Encounters of the Fifth Kind: Contact has Begun	20%	5	79%	47	documentary
+A Thread of Deceit: The Hart Family Tragedy	100%	5	NOT FOUND	NOT FOUND	documentary
+Shoot to Marry	73%	15	NOT FOUND	NOT FOUND	documentary
+Screened Out	88%	16	NOT FOUND	NOT FOUND	documentary
+Murder to Mercy: The Cyntoia Brown Story	77%	13	48%	21	documentary
+Have a Good Trip: Adventures in Psychedelics	60%	25	74%	88	documentary
+Eating Up Easter	80%	5	NOT FOUND	NOT FOUND	documentary
+A Secret Love	100%	37	95%	85	documentary
+Becoming	93%	71	59%	184	documentary
+Liyana	100%	33	74%	93	documentary
+Melody Makers	78%	9	NOT FOUND	NOT FOUND	documentary
+Netizens	92%	13	88%	9	documentary
+Betty: They Say I'm Different	83%	6	NOT FOUND	NOT FOUND	documentary
+Making Montgomery Clift	100%	14	80%	5	documentary
+To Kid or Not to Kid	100%	11	NOT FOUND	NOT FOUND	documentary
+Barbara Rubin & the Exploding NY Underground	100%	15	NOT FOUND	NOT FOUND	documentary
+Afterward	86%	7	NOT FOUND	NOT FOUND	documentary
+Inside Lehman Brothers	83%	6	NOT FOUND	NOT FOUND	documentary
+Where's My Roy Cohn?	86%	81	76%	84	documentary
+Memory: The Origins of Alien	82%	77	92%	12	documentary
+Serendipity	77%	13	NOT FOUND	NOT FOUND	documentary
+If the Dancer Dances	93%	15	93%	14	documentary
+Tread	90%	10	NOT FOUND	NOT FOUND	documentary
+Linda Ronstadt: The Sound of My Voice	89%	87	99%	555	documentary
+We Believe In Dinosaurs	90%	10	91%	11	documentary
+Toxic Beauty	100%	7	NOT FOUND	NOT FOUND	documentary
+Ice on Fire	90%	10	80%	10	documentary
+Liam Gallagher: As It Was	59%	29	62%	24	documentary
+Iron Fists and Kung Fu Kicks	100%	6	73%	11	documentary
+Wrinkles the Clown	71%	31	NOT FOUND	NOT FOUND	documentary
+Tell Me Who I Am	97%	35	89%	158	documentary
+Bikram: Yogi, Guru, Predator	96%	23	71%	103	documentary
+Scream, Queen! My Nightmare on Elm Street	100%	23	84%	19	documentary
+Ghosts of Sugar Land	100%	5	65%	17	documentary
+QT8: The First Eight	91%	23	94%	34	documentary
+A Reindeer's Journey	83%	6	NOT FOUND	NOT FOUND	documentary
+Fire in Paradise	80%	5	83%	18	documentary
+The Price of Desire	30%	10	NOT FOUND	NOT FOUND	drama
+Knives Out	97%	434	92%	33,825	drama
+The Infiltrators	87%	31	NOT FOUND	NOT FOUND	drama
+Premature	94%	48	64%	63	drama
+Mope	56%	16	NOT FOUND	NOT FOUND	drama
+Judy & Punch	79%	125	64%	33	drama
+Olympic Dreams	68%	47	60%	25	drama
+The Short History of the Long Road	83%	18	NOT FOUND	NOT FOUND	drama
+Feral	100%	12	NOT FOUND	NOT FOUND	drama
+Lucky Grandma	98%	43	83%	23	drama
+And Then We Danced	92%	79	95%	21	drama
+The Traitor	83%	92	70%	83	drama
+This Teacher	100%	6	NOT FOUND	NOT FOUND	drama
+End of Sentence	93%	46	97%	123	drama
+The High Note	70%	151	76%	168	drama
+Babyteeth	93%	58	NOT FOUND	NOT FOUND	drama
+Castle in the Ground	64%	36	73%	15	drama
+Military Wives	75%	106	55%	22	drama
+Exit Plan (Selvmords turisten)	33%	21	NOT FOUND	NOT FOUND	drama
+Shirley	88%	167	61%	110	drama
+Miss Juneteenth	99%	67	NOT FOUND	NOT FOUND	drama
+The Man Standing Next	86%	7	100%	9	drama
+I Will Make You Mine	100%	17	NOT FOUND	NOT FOUND	drama
+Villain	73%	22	NOT FOUND	NOT FOUND	drama
+Darkness Falls	15%	13	NOT FOUND	NOT FOUND	drama
+Think Like a Dog	75%	8	69%	13	drama
+Proximity	41%	22	NOT FOUND	NOT FOUND	drama
+The Collini Case	80%	10	NOT FOUND	NOT FOUND	drama
+The Accompanist	0%	6	NOT FOUND	NOT FOUND	drama
+A Clear Shot	0%	7	NOT FOUND	NOT FOUND	drama
+Hammer	75%	24	62%	13	drama
+The Departure	50%	6	NOT FOUND	NOT FOUND	drama
+Blush (Imaginary Order)	73%	11	NOT FOUND	NOT FOUND	drama
+To the Stars	82%	56	80%	66	drama
+Why Don't You Just Die! (Papa, sdokhni)	97%	65	NOT FOUND	NOT FOUND	drama
+Abe	71%	31	71%	91	drama
+Working Man	90%	29	88%	32	drama
+Saint Frances	96%	56	NOT FOUND	NOT FOUND	drama
+Stray Dolls	74%	23	73%	11	drama
+Bull	90%	84	86%	21	drama
+Beanpole (Dylda)	91%	86	79%	82	drama
+Better Days	100%	11	97%	131	drama
+Robert the Bruce	44%	50	70%	158	drama
+A Good Woman Is Hard to Find	91%	46	72%	39	drama
+Endings, Beginnings	42%	62	NOT FOUND	NOT FOUND	drama
+True History of the Kelly Gang	78%	148	41%	123	drama
+Greed	48%	136	33%	46	drama
+Sweetness in the Belly	40%	10	NOT FOUND	NOT FOUND	drama
+Intrigo: Dear Agnes	40%	5	NOT FOUND	NOT FOUND	drama
+Blue Story	91%	33	67%	61	drama
+Angelfish	86%	14	NOT FOUND	NOT FOUND	drama
+The Photograph	74%	103	81%	7,289	drama
+Sergio	44%	45	51%	141	drama
+Enemy Lines	20%	5	64%	14	drama
+Extraction	68%	188	69%	3,307	drama
+The Lost Husband	58%	19	91%	128	drama
+Arkansas	48%	56	NOT FOUND	NOT FOUND	drama
+15 Years	60%	5	NOT FOUND	NOT FOUND	drama
+Rising High (Betonrausch)	33%	9	50%	12	drama
+Dangerous Lies (Windfall)	27%	26	21%	253	drama
+She's Allergic to Cats	83%	12	NOT FOUND	NOT FOUND	horror
+Perfect	17%	12	47%	15	horror
+The Grudge	20%	117	23%	3,393	horror
+The Hunt	56%	221	66%	937	horror
+Bit	90%	10	38%	34	horror
+Camp Cold Brook	57%	7	38%	21	horror
+After Midnight (Something Else)	85%	26	50%	62	horror
+Brahms: The Boy II	9%	53	44%	1,304	horror
+Black Christmas	38%	104	31%	1,356	horror
+The Furies	62%	26	75%	16	horror
+Ghost Killers vs. Bloody Mary (Exterminadores do Além Contra a Loira do Banheiro)	50%	6	67%	9	horror
+1BR	83%	46	NOT FOUND	NOT FOUND	horror
+The Wretched	74%	88	48%	184	horror
+Color Out of Space	86%	177	82%	94	horror
+Sea Fever	85%	95	NOT FOUND	NOT FOUND	horror
+The Dark Red	75%	8	65%	26	horror
+To Your Last Death	70%	10	100%	14	horror
+The Platform (El Hoyo)	83%	80	71%	1,188	horror
+Witches in the Woods	50%	6	NOT FOUND	NOT FOUND	horror
+Black Ops	63%	8	NOT FOUND	NOT FOUND	horror
+We Summon the Darkness	69%	61	39%	90	horror
+Greenlight	71%	7	NOT FOUND	NOT FOUND	horror
+The Invisible Man	91%	360	88%	11,884	horror
+The Dare	33%	6	NOT FOUND	NOT FOUND	horror
+Behind You	8%	12	52%	25	horror
+Evil Little Things	50%	6	NOT FOUND	NOT FOUND	horror
+Get In	40%	5	36%	11	horror
+The Dinner Party	33%	12	NOT FOUND	NOT FOUND	horror
+The Candy Witch	20%	5	NOT FOUND	NOT FOUND	horror
+Body Cam	45%	20	54%	26	horror
+The Soul Collector	73%	11	NOT FOUND	NOT FOUND	horror
+You Should Have Left	46%	67	35%	62	horror
+Scary Stories to Tell in the Dark	78%	222	72%	8,239	horror
+Snatchers	100%	16	62%	117	horror
+Polaroid	0%	5	30%	2,903	horror
+It Chapter Two	63%	355	78%	30,948	horror
+Eli	48%	25	38%	506	horror
+The Lighthouse	90%	359	72%	1,932	horror
+Zombieland: Double Tap	68%	235	88%	11,198	horror
+Daniel Isn't Real	82%	73	54%	122	horror
+In Fabric	92%	149	48%	236	horror
+Freaks	87%	77	86%	152	horror
+Girl on the Third Floor	81%	36	22%	374	horror
+Ready or Not	88%	285	78%	5,340	horror
+Sweetheart	94%	35	50%	224	horror
+Wounds	51%	51	NOT FOUND	NOT FOUND	horror
+I See You	76%	38	73%	373	horror
+Antrum: The Deadliest Film Ever Made	80%	10	49%	59	horror
+Verotika	25%	12	7%	15	horror
+The Divine Fury	36%	14	90%	20	horror
+Red Letter Day	67%	6	NOT FOUND	NOT FOUND	horror
+Dark Encounter (Transience)	67%	6	NOT FOUND	NOT FOUND	horror
+Extracurricular	67%	6	NOT FOUND	NOT FOUND	horror
+Rabid	53%	30	38%	45	horror
+VFW	80%	50	63%	110	horror
+Portals	0%	11	14%	21	horror
+Philophobia: Or the Fear of Falling in Love	100%	10	72%	18	horror
+Countdown	26%	70	72%	2,445	horror
+The Gallows Act II	0%	13	39%	66	horror
+Trick	32%	25	42%	55	horror
+The Grinch	59%	184	50%	12,869	kids & family
+How to Train Your Dragon: The Hidden World	91%	255	86%	56,220	kids & family
+Fantastic Beasts: The Crimes of Grindelwald	36%	314	54%	14,950	kids & family
+Toy Story 4	97%	429	94%	53,146	kids & family
+Frozen II	77%	315	92%	48,800	kids & family
+Wonder Park	34%	104	44%	671	kids & family
+The Nutcracker and the Four Realms	33%	200	33%	2,288	kids & family
+Ralph Breaks the Internet	88%	266	65%	8,548	kids & family
+Goosebumps 2: Haunted Halloween	48%	94	38%	1,305	kids & family
+The Willoughbys	90%	60	65%	382	kids & family
+The Kid Who Would Be King	89%	185	56%	1,430	kids & family
+Lu Over the Wall (Yoake tsugeru Rû no uta)	77%	43	67%	131	kids & family
+Rocko's Modern Life: Static Cling	92%	24	68%	285	kids & family
+Dumbo	47%	352	48%	4,382	kids & family
+Aladdin	57%	362	94%	59,044	kids & family
+Spies in Disguise	75%	117	92%	8,316	kids & family
+Spider-Man: Into the Spider-Verse	97%	375	93%	19,722	kids & family
+Pokémon Detective Pikachu	68%	296	79%	16,435	kids & family
+Dora and the Lost City of Gold	84%	148	88%	6,716	kids & family
+A Dog's Journey	50%	84	91%	2,914	kids & family
+Mirai	91%	80	80%	894	kids & family
+Dilili in Paris (Dilili à Paris)	61%	23	NOT FOUND	NOT FOUND	kids & family
+Onward	88%	311	95%	8,597	kids & family
+Nancy Drew and the Hidden Staircase	67%	24	60%	165	kids & family
+Kevin Hart's Guide to Black History	80%	5	69%	41	kids & family
+Mia and the White Lion	88%	17	57%	67	kids & family
+Klaus	94%	65	97%	1,937	kids & family
+Pokémon the Movie: Mewtwo Strikes Back Evolution	44%	9	42%	116	kids & family
+A Christmas Prince: The Royal Baby	33%	9	32%	74	kids & family
+John Mulaney & The Sack Lunch Bunch	96%	26	78%	106	kids & family
+The Main Event	28%	18	24%	54	kids & family
+Think Like a Dog	75%	8	69%	13	kids & family
+Peppermint Soda	90%	10	73%	89	kids & family
+Jumanji: Welcome to the Jungle	76%	230	87%	39,287	kids & family
+The Star	42%	52	71%	2,969	kids & family
+Coco	97%	340	94%	27,602	kids & family
+Incredibles 2	94%	373	84%	18,249	kids & family
+Hotel Transylvania 3: Summer Vacation	62%	116	48%	3,427	kids & family
+Sherlock Gnomes	27%	64	35%	1,615	kids & family
+Peter Rabbit	64%	144	56%	3,383	kids & family
+A Wrinkle in Time	42%	324	26%	8,757	kids & family
+Show Dogs	16%	63	25%	700	kids & family
+The Breadwinner	95%	103	86%	1,988	kids & family
+Red Dog: True Blue	100%	13	67%	254	kids & family
+Early Man	81%	172	49%	2,194	kids & family
+Girl Flu.	83%	6	63%	148	kids & family
+Sgt. Stubby: An American Hero	89%	45	92%	699	kids & family
+Paddington 2	100%	239	88%	8,097	kids & family
+Son of Bigfoot	76%	21	40%	369	kids & family
+Smallfoot	76%	122	62%	2,148	kids & family
+The Healer	17%	6	57%	202	kids & family
+The Stray	40%	10	69%	902	kids & family
+I Can Only Imagine	61%	31	92%	4,028	kids & family
+Earth: One Amazing Day	100%	21	84%	215	kids & family
+Christopher Robin	73%	265	83%	5,675	kids & family
+The House with a Clock in Its Walls	66%	209	45%	3,451	kids & family
+Monster Family	10%	21	22%	230	kids & family
+Teen Titans Go! To the Movies	91%	129	72%	3,492	kids & family
+Woody Woodpecker	13%	8	34%	201	kids & family
+Benji	60%	10	70%	146	kids & family
+The Rhythm Section	29%	166	44%	1,134	mystery
+The Plagues of Breslau (Plagi Breslau)	83%	6	51%	39	mystery
+Why Don't You Just Die! (Papa, sdokhni)	97%	65	NOT FOUND	NOT FOUND	mystery
+Knives Out	97%	434	92%	33,825	mystery
+Feral	100%	12	NOT FOUND	NOT FOUND	mystery
+Underwater	48%	200	60%	2,857	mystery
+A Good Woman Is Hard to Find	91%	46	72%	39	mystery
+Chameleon	100%	11	80%	112	mystery
+Witches in the Woods	50%	6	NOT FOUND	NOT FOUND	mystery
+Intrigo: Dear Agnes	40%	5	NOT FOUND	NOT FOUND	mystery
+We Summon the Darkness	69%	61	39%	90	mystery
+Butt Boy	70%	54	69%	42	mystery
+Exit Plan (Selvmords turisten)	33%	21	NOT FOUND	NOT FOUND	mystery
+The Man Standing Next	86%	7	100%	9	mystery
+The Quarry	39%	44	53%	15	mystery
+Extraction	68%	188	69%	3,307	mystery
+Arkansas	48%	56	NOT FOUND	NOT FOUND	mystery
+I Am Vengeance: Retaliation	50%	6	NOT FOUND	NOT FOUND	mystery
+Tape	65%	20	17%	6	mystery
+Darkness Falls	15%	13	NOT FOUND	NOT FOUND	mystery
+Survive the Night	17%	12	76%	297	mystery
+Inheritance	25%	48	NOT FOUND	NOT FOUND	mystery
+Blood and Money	40%	20	67%	24	mystery
+Proximity	41%	22	NOT FOUND	NOT FOUND	mystery
+Debt Collectors	90%	10	NOT FOUND	NOT FOUND	mystery
+Get In	40%	5	36%	11	mystery
+A Clear Shot	0%	7	NOT FOUND	NOT FOUND	mystery
+Infamous	23%	22	49%	39	mystery
+Hammer	75%	24	62%	13	mystery
+Becky	68%	92	69%	196	mystery
+Body Cam	45%	20	54%	26	mystery
+You Should Have Left	46%	67	35%	62	mystery
+The Hunt	56%	221	66%	937	mystery
+The Night Clerk	34%	44	34%	131	mystery
+The Witch: Subversion (Manyeo)	88%	16	87%	136	mystery
+Close Enemies (Freres Ennemis)	58%	12	56%	18	mystery
+Camp Cold Brook	57%	7	38%	21	mystery
+Impossible Monsters	50%	6	94%	54	mystery
+Come to Daddy	86%	94	75%	8	mystery
+Swallow	88%	109	72%	233	mystery
+First Love (Hatsukoi)	97%	109	88%	33	mystery
+Brahms: The Boy II	9%	53	44%	1,304	mystery
+Vivarium	72%	131	40%	545	mystery
+Black Christmas	38%	104	31%	1,356	mystery
+The Furies	62%	26	75%	16	mystery
+Blood on Her Name	96%	51	59%	44	mystery
+The Dark Red	75%	8	65%	26	mystery
+The Platform (El Hoyo)	83%	80	71%	1,188	mystery
+Twin Murders: The Silence of the White City (El silencio de la ciudad blanca)	40%	5	17%	24	mystery
+Greenlight	71%	7	NOT FOUND	NOT FOUND	mystery
+The Invisible Man	91%	360	88%	11,884	mystery
+The Coldest Game	0%	5	48%	89	mystery
+The Last Thing He Wanted	5%	55	NOT FOUND	NOT FOUND	mystery
+Lost Girls	73%	48	NOT FOUND	NOT FOUND	mystery
+Clover	29%	17	NOT FOUND	NOT FOUND	mystery
+Burning Dog	100%	5	NOT FOUND	NOT FOUND	mystery
+Spenser Confidential	38%	77	54%	998	mystery
+Escape from Pretoria	70%	37	NOT FOUND	NOT FOUND	mystery
+The Postcard Killings	24%	21	NOT FOUND	NOT FOUND	mystery
+The Dare	33%	6	NOT FOUND	NOT FOUND	mystery
+The Price of Desire	30%	10	NOT FOUND	NOT FOUND	romance
+She's Allergic to Cats	83%	12	NOT FOUND	NOT FOUND	romance
+High Strung Free Dance	50%	6	87%	71	romance
+Love Is Blind	40%	5	47%	17	romance
+A Simple Wedding	79%	14	74%	43	romance
+I Am Jonas (Jonas)	100%	5	81%	40	romance
+Premature	94%	48	64%	63	romance
+Top End Wedding	89%	37	67%	18	romance
+Olympic Dreams	68%	47	60%	25	romance
+Saint Frances	96%	56	NOT FOUND	NOT FOUND	romance
+2 in the Bush: A Love Story	100%	5	60%	5	romance
+Atlantics	96%	145	79%	70	romance
+And Then We Danced	92%	79	95%	21	romance
+Almost Love (Sell By)	67%	27	NOT FOUND	NOT FOUND	romance
+Union	64%	11	NOT FOUND	NOT FOUND	romance
+Endings, Beginnings	42%	62	NOT FOUND	NOT FOUND	romance
+The High Note	70%	151	76%	168	romance
+To All the Boys: P.S. I Still Love You	74%	69	39%	431	romance
+Sweetness in the Belly	40%	10	NOT FOUND	NOT FOUND	romance
+Feast of the Seven Fishes	88%	16	93%	59	romance
+Let It Snow	81%	26	45%	354	romance
+The Knight Before Christmas	68%	19	42%	209	romance
+A Christmas Prince: The Royal Baby	33%	9	32%	74	romance
+Angelfish	86%	14	NOT FOUND	NOT FOUND	romance
+The Photograph	74%	103	81%	7,289	romance
+Inside the Rain	84%	19	77%	22	romance
+All the Bright Places	66%	38	58%	204	romance
+I Love You, Stupid (Te quiero, Imbécil)	63%	8	50%	10	romance
+Vanilla	87%	15	NOT FOUND	NOT FOUND	romance
+Shoot to Marry	73%	15	NOT FOUND	NOT FOUND	romance
+Love Wedding Repeat	31%	62	37%	303	romance
+The Half of It	96%	85	81%	585	romance
+Quartet	44%	16	32%	112	romance
+The Return of Martin Guerre (Le Retour de Martin Guerre)	100%	16	80%	2,881	romance
+The Squeeze	14%	7	29%	349	romance
+The Edge of Love	37%	59	43%	53,725	romance
+Alita: Battle Angel	61%	315	92%	33,542	romance
+SoulMate	100%	8	78%	139	romance
+Hampstead	43%	60	41%	411	romance
+Isn't It Romantic	70%	169	47%	2,966	romance
+Second Act	45%	107	43%	1,197	romance
+The Sun Is Also a Star	51%	100	61%	831	romance
+The Breaker Upperers	89%	45	51%	357	romance
+The Wedding Year	44%	9	51%	49	romance
+Border (Gräns)	97%	120	77%	1,168	romance
+Ash Is Purest White	99%	147	67%	195	romance
+Five Feet Apart	53%	119	79%	824	romance
+After	17%	35	70%	2,534	romance
+The Weekend	85%	20	34%	31	romance
+Gloria Bell	91%	194	45%	591	romance
+Tell It to the Bees	52%	54	66%	87	romance
+Vita & Virginia	42%	88	62%	60	romance
+Clara	48%	23	89%	76	romance
+The Tomorrow Man	42%	55	44%	43	romance
+Someone Great	82%	51	65%	537	romance
+Making Babies	25%	8	55%	33	romance
+Yesterday	63%	338	89%	14,665	romance
+Elisa & Marcela	38%	13	NOT FOUND	NOT FOUND	romance
+The Perfect Date	65%	17	36%	522	romance
+Plus One	89%	61	81%	346	romance
+Star Wars: The Rise of Skywalker	51%	485	86%	98,236	sci-fi & fantasy
+Snatchers	100%	16	62%	117	sci-fi & fantasy
+Dolittle	14%	220	76%	11,521	sci-fi & fantasy
+Terminator: Dark Fate	70%	326	82%	13,004	sci-fi & fantasy
+Perfect	17%	12	47%	15	sci-fi & fantasy
+Bit	90%	10	38%	34	sci-fi & fantasy
+Bloodshot	30%	152	78%	1,568	sci-fi & fantasy
+Onward	88%	311	95%	8,597	sci-fi & fantasy
+Fantasy Island	8%	101	48%	3,567	sci-fi & fantasy
+2050	20%	5	NOT FOUND	NOT FOUND	sci-fi & fantasy
+William	42%	12	44%	9	sci-fi & fantasy
+Only	39%	18	NOT FOUND	NOT FOUND	sci-fi & fantasy
+2/1	60%	5	40%	5	sci-fi & fantasy
+Little Joe	68%	110	42%	71	sci-fi & fantasy
+After We Leave	100%	6	40%	25	sci-fi & fantasy
+Ne Zha	88%	17	98%	426	sci-fi & fantasy
+Color Out of Space	86%	177	82%	94	sci-fi & fantasy
+Sea Fever	85%	95	NOT FOUND	NOT FOUND	sci-fi & fantasy
+The Platform (El Hoyo)	83%	80	71%	1,188	sci-fi & fantasy
+Black Ops	63%	8	NOT FOUND	NOT FOUND	sci-fi & fantasy
+The Wave	66%	35	66%	53	sci-fi & fantasy
+Butt Boy	70%	54	69%	42	sci-fi & fantasy
+The Invisible Man	91%	360	88%	11,884	sci-fi & fantasy
+Invasion Planet Earth	0%	5	36%	11	sci-fi & fantasy
+Horse Girl	72%	53	47%	375	sci-fi & fantasy
+Superman: Red Son	88%	16	64%	292	sci-fi & fantasy
+James VS His Future Self	100%	16	62%	16	sci-fi & fantasy
+Soundwave	85%	20	NOT FOUND	NOT FOUND	sci-fi & fantasy
+Altered Carbon: Resleeved	60%	5	53%	73	sci-fi & fantasy
+The Main Event	28%	18	24%	54	sci-fi & fantasy
+Dreamland	47%	30	NOT FOUND	NOT FOUND	sci-fi & fantasy
+Proximity	41%	22	NOT FOUND	NOT FOUND	sci-fi & fantasy
+Godzilla: King of the Monsters	42%	332	83%	25,208	sci-fi & fantasy
+Toy Story 4	97%	429	94%	53,146	sci-fi & fantasy
+Avengers: Endgame	94%	509	90%	69,565	sci-fi & fantasy
+Spider-Man: Far From Home	90%	428	95%	69,227	sci-fi & fantasy
+Dark Phoenix	23%	359	64%	15,450	sci-fi & fantasy
+Gemini Man	26%	300	83%	8,795	sci-fi & fantasy
+Aladdin	57%	362	94%	59,044	sci-fi & fantasy
+Ad Astra	84%	367	40%	10,262	sci-fi & fantasy
+Men in Black International	23%	304	66%	11,493	sci-fi & fantasy
+Legend Of The Demon Cat (Kûkai)	91%	11	36%	75	sci-fi & fantasy
+The Lighthouse	90%	359	72%	1,932	sci-fi & fantasy
+Maleficent: Mistress of Evil	40%	251	95%	19,127	sci-fi & fantasy
+Nekrotronic	40%	20	72%	49	sci-fi & fantasy
+Freaks	87%	77	86%	152	sci-fi & fantasy
+Brightburn	57%	198	67%	4,331	sci-fi & fantasy
+Empathy, Inc.	85%	27	90%	48	sci-fi & fantasy
+The Death of Dick Long	75%	76	86%	7	sci-fi & fantasy
+Paradise Hills	64%	61	77%	362	sci-fi & fantasy
+Yesterday	63%	338	89%	14,665	sci-fi & fantasy
+The Fare	100%	7	NOT FOUND	NOT FOUND	sci-fi & fantasy
+Lucy in the Sky	22%	123	31%	75	sci-fi & fantasy
+I Lost My Body	96%	75	84%	501	sci-fi & fantasy
+Critters Attack!	44%	16	25%	16	sci-fi & fantasy
+Auggie	80%	15	78%	9	sci-fi & fantasy
+Invader Zim: Enter the Florpus	100%	21	88%	32	sci-fi & fantasy
+Riot Girls	89%	19	44%	18	sci-fi & fantasy
+Klaus	94%	65	97%	1,937	sci-fi & fantasy
+The VelociPastor	54%	13	70%	118	sci-fi & fantasy
