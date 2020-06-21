@@ -30,7 +30,7 @@ GENRES = {
 }
 
 #path to chrome and init of selenium webdriver
-PATH = 'C:/Users/jsadd/Desktop/Learning Python/chromedriver.exe'
+PATH = '<--PATHTO-->/chromedriver.exe'
 driver = webdriver.Chrome(PATH)
 
 #time intervals for sleeping and webdriver timeout
