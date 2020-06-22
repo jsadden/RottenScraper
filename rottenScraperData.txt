@@ -51,7 +51,7 @@ The Corrupted	30%	10	36%	11	action
 Escape and Evasion	80%	5	NOT FOUND	NOT FOUND	action
 First Love (Hatsukoi)	97%	109	88%	33	action
 Union	64%	11	NOT FOUND	NOT FOUND	action
-Pokémon the Movie: Mewtwo Strikes Back Evolution	44%	9	42%	116	action
+Pokï¿½mon the Movie: Mewtwo Strikes Back Evolution	44%	9	42%	116	action
 Ne Zha	88%	17	98%	426	action
 The Great Alaskan Race	11%	9	NOT FOUND	NOT FOUND	action
 Guns Akimbo	55%	62	40%	5	action
@@ -75,17 +75,17 @@ Liyana	100%	33	74%	93	animation
 Dumbo	47%	352	48%	4,382	animation
 Trolls World Tour	70%	139	60%	833	animation
 Spies in Disguise	75%	117	92%	8,316	animation
-Pokémon Detective Pikachu	68%	296	79%	16,435	animation
+Pokï¿½mon Detective Pikachu	68%	296	79%	16,435	animation
 A Shaun the Sheep Movie: Farmageddon	96%	72	79%	222	animation
 The Addams Family	44%	153	69%	10,314	animation
 Missing Link	89%	160	67%	884	animation
-Dilili in Paris (Dilili à Paris)	61%	23	NOT FOUND	NOT FOUND	animation
+Dilili in Paris (Dilili ï¿½ Paris)	61%	23	NOT FOUND	NOT FOUND	animation
 Onward	88%	311	95%	8,597	animation
 Batman vs Teenage Mutant Ninja Turtles	100%	12	85%	223	animation
 I Lost My Body	96%	75	84%	501	animation
 Invader Zim: Enter the Florpus	100%	21	88%	32	animation
 Klaus	94%	65	97%	1,937	animation
-Pokémon the Movie: Mewtwo Strikes Back Evolution	44%	9	42%	116	animation
+Pokï¿½mon the Movie: Mewtwo Strikes Back Evolution	44%	9	42%	116	animation
 Ne Zha	88%	17	98%	426	animation
 To Your Last Death	70%	10	100%	14	animation
 Superman: Red Son	88%	16	64%	292	animation
@@ -110,7 +110,7 @@ Paddington 2	100%	239	88%	8,097	animation
 Son of Bigfoot	76%	21	40%	369	animation
 Smallfoot	76%	122	62%	2,148	animation
 Tehran Taboo	97%	36	81%	216	animation
-Lu Over the Wall (Yoake tsugeru Rû no uta)	77%	43	67%	131	animation
+Lu Over the Wall (Yoake tsugeru Rï¿½ no uta)	77%	43	67%	131	animation
 Mary and The Witch's Flower	89%	88	71%	1,444	animation
 The Little Vampire 3D	14%	14	52%	90	animation
 Spider-Man: Into the Spider-Verse	97%	375	93%	19,722	animation
@@ -125,9 +125,9 @@ SoulMate	100%	8	78%	139	art & foreign
 The Last Photograph	71%	7	57%	10	art & foreign
 Liyana	100%	33	74%	93	art & foreign
 The Other Side of Everything (Druga strana svega)	90%	10	83%	31	art & foreign
-My Son (Mon garçon)	57%	21	15%	14	art & foreign
+My Son (Mon garï¿½on)	57%	21	15%	14	art & foreign
 The Bastards' Fig Tree (La higuera de los bastardos)	73%	11	NOT FOUND	NOT FOUND	art & foreign
-Four Hands (Die Vierhändige)	83%	12	33%	17	art & foreign
+Four Hands (Die Vierhï¿½ndige)	83%	12	33%	17	art & foreign
 White Lightning	86%	7	61%	1,644	classics
 The Long Goodbye	97%	35	88%	10,282	classics
 King of Hearts	89%	18	88%	3,918	classics
@@ -167,7 +167,7 @@ Long Day's Journey Into Night	94%	17	86%	3,064	classics
 The Grass Is Greener	88%	8	65%	2,958	classics
 The Enforcer	88%	8	70%	1,292	classics
 Samson and Delilah	63%	8	58%	2,071	classics
-Shoeshine (Sciuscià)	100%	6	92%	1,028	classics
+Shoeshine (Sciusciï¿½)	100%	6	92%	1,028	classics
 Kes	100%	31	91%	9,149	classics
 The Magnificent Ambersons	90%	41	85%	6,450	classics
 The Devil and Miss Jones	100%	7	82%	583	classics
@@ -181,12 +181,12 @@ My Little Chickadee	91%	11	63%	724	classics
 Northwest Passage	100%	6	68%	574	classics
 Blossoms in the Dust	33%	9	72%	376	classics
 Hail the Conquering Hero	95%	20	85%	609	classics
-Marketa Lazarová	100%	11	87%	601	classics
+Marketa Lazarovï¿½	100%	11	87%	601	classics
 Rose Marie	83%	6	73%	266	classics
 Not as a Stranger (Morton Thompson's Not as a Stranger)	13%	8	54%	254	classics
 Wild River	100%	12	83%	529	classics
 Bride Flight	67%	39	75%	1,310	classics
-Baarìa	55%	11	50%	1,218	classics
+Baarï¿½a	55%	11	50%	1,218	classics
 The Eagle	40%	155	41%	42,602	classics
 Scoob!	50%	111	61%	1,149	comedy
 The Willoughbys	90%	60	65%	382	comedy
@@ -206,7 +206,7 @@ Greed	48%	136	33%	46	comedy
 Butt Boy	70%	54	69%	42	comedy
 The Photograph	74%	103	81%	7,289	comedy
 Man Camp	100%	5	86%	7	comedy
-I Love You, Stupid (Te quiero, Imbécil)	63%	8	50%	10	comedy
+I Love You, Stupid (Te quiero, Imbï¿½cil)	63%	8	50%	10	comedy
 The King of Staten Island	72%	230	87%	1,110	comedy
 Vanilla	87%	15	NOT FOUND	NOT FOUND	comedy
 James VS His Future Self	100%	16	62%	16	comedy
@@ -234,7 +234,7 @@ Banana Split	88%	49	65%	94	comedy
 It Started As a Joke	100%	10	100%	5	comedy
 Emma.	86%	222	72%	2,092	comedy
 Almost Love (Sell By)	67%	27	NOT FOUND	NOT FOUND	comedy
-Ghost Killers vs. Bloody Mary (Exterminadores do Além Contra a Loira do Banheiro)	50%	6	67%	9	comedy
+Ghost Killers vs. Bloody Mary (Exterminadores do Alï¿½m Contra a Loira do Banheiro)	50%	6	67%	9	comedy
 Guns Akimbo	55%	62	40%	5	comedy
 VHYes	80%	41	74%	19	comedy
 Like a Boss	21%	143	65%	3,422	comedy
@@ -378,7 +378,7 @@ After Midnight (Something Else)	85%	26	50%	62	horror
 Brahms: The Boy II	9%	53	44%	1,304	horror
 Black Christmas	38%	104	31%	1,356	horror
 The Furies	62%	26	75%	16	horror
-Ghost Killers vs. Bloody Mary (Exterminadores do Além Contra a Loira do Banheiro)	50%	6	67%	9	horror
+Ghost Killers vs. Bloody Mary (Exterminadores do Alï¿½m Contra a Loira do Banheiro)	50%	6	67%	9	horror
 1BR	83%	46	NOT FOUND	NOT FOUND	horror
 The Wretched	74%	88	48%	184	horror
 Color Out of Space	86%	177	82%	94	horror
@@ -439,23 +439,23 @@ Ralph Breaks the Internet	88%	266	65%	8,548	kids & family
 Goosebumps 2: Haunted Halloween	48%	94	38%	1,305	kids & family
 The Willoughbys	90%	60	65%	382	kids & family
 The Kid Who Would Be King	89%	185	56%	1,430	kids & family
-Lu Over the Wall (Yoake tsugeru Rû no uta)	77%	43	67%	131	kids & family
+Lu Over the Wall (Yoake tsugeru Rï¿½ no uta)	77%	43	67%	131	kids & family
 Rocko's Modern Life: Static Cling	92%	24	68%	285	kids & family
 Dumbo	47%	352	48%	4,382	kids & family
 Aladdin	57%	362	94%	59,044	kids & family
 Spies in Disguise	75%	117	92%	8,316	kids & family
 Spider-Man: Into the Spider-Verse	97%	375	93%	19,722	kids & family
-Pokémon Detective Pikachu	68%	296	79%	16,435	kids & family
+Pokï¿½mon Detective Pikachu	68%	296	79%	16,435	kids & family
 Dora and the Lost City of Gold	84%	148	88%	6,716	kids & family
 A Dog's Journey	50%	84	91%	2,914	kids & family
 Mirai	91%	80	80%	894	kids & family
-Dilili in Paris (Dilili à Paris)	61%	23	NOT FOUND	NOT FOUND	kids & family
+Dilili in Paris (Dilili ï¿½ Paris)	61%	23	NOT FOUND	NOT FOUND	kids & family
 Onward	88%	311	95%	8,597	kids & family
 Nancy Drew and the Hidden Staircase	67%	24	60%	165	kids & family
 Kevin Hart's Guide to Black History	80%	5	69%	41	kids & family
 Mia and the White Lion	88%	17	57%	67	kids & family
 Klaus	94%	65	97%	1,937	kids & family
-Pokémon the Movie: Mewtwo Strikes Back Evolution	44%	9	42%	116	kids & family
+Pokï¿½mon the Movie: Mewtwo Strikes Back Evolution	44%	9	42%	116	kids & family
 A Christmas Prince: The Royal Baby	33%	9	32%	74	kids & family
 John Mulaney & The Sack Lunch Bunch	96%	26	78%	106	kids & family
 The Main Event	28%	18	24%	54	kids & family
@@ -575,7 +575,7 @@ Angelfish	86%	14	NOT FOUND	NOT FOUND	romance
 The Photograph	74%	103	81%	7,289	romance
 Inside the Rain	84%	19	77%	22	romance
 All the Bright Places	66%	38	58%	204	romance
-I Love You, Stupid (Te quiero, Imbécil)	63%	8	50%	10	romance
+I Love You, Stupid (Te quiero, Imbï¿½cil)	63%	8	50%	10	romance
 Vanilla	87%	15	NOT FOUND	NOT FOUND	romance
 Shoot to Marry	73%	15	NOT FOUND	NOT FOUND	romance
 Love Wedding Repeat	31%	62	37%	303	romance
@@ -592,7 +592,7 @@ Second Act	45%	107	43%	1,197	romance
 The Sun Is Also a Star	51%	100	61%	831	romance
 The Breaker Upperers	89%	45	51%	357	romance
 The Wedding Year	44%	9	51%	49	romance
-Border (Gräns)	97%	120	77%	1,168	romance
+Border (Grï¿½ns)	97%	120	77%	1,168	romance
 Ash Is Purest White	99%	147	67%	195	romance
 Five Feet Apart	53%	119	79%	824	romance
 After	17%	35	70%	2,534	romance
@@ -649,7 +649,7 @@ Gemini Man	26%	300	83%	8,795	sci-fi & fantasy
 Aladdin	57%	362	94%	59,044	sci-fi & fantasy
 Ad Astra	84%	367	40%	10,262	sci-fi & fantasy
 Men in Black International	23%	304	66%	11,493	sci-fi & fantasy
-Legend Of The Demon Cat (Kûkai)	91%	11	36%	75	sci-fi & fantasy
+Legend Of The Demon Cat (Kï¿½kai)	91%	11	36%	75	sci-fi & fantasy
 The Lighthouse	90%	359	72%	1,932	sci-fi & fantasy
 Maleficent: Mistress of Evil	40%	251	95%	19,127	sci-fi & fantasy
 Nekrotronic	40%	20	72%	49	sci-fi & fantasy

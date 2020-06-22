@@ -30,7 +30,7 @@ GENRES = {
 }
 
 #path to chrome and init of selenium webdriver
-PATH = '<--PATHTO-->/chromedriver.exe'
+PATH = 'C:/Users/jsadd/Desktop/Learning Python/chromedriver.exe'
 driver = webdriver.Chrome(PATH)
 
 #time intervals for sleeping and webdriver timeout
@@ -38,15 +38,15 @@ URLSLEEPINTERVAL = 0.5
 CLICKSLEEPINTERVAL = 3
 TIMEOUTINTERVAL = 10
 
+#constants defining movies to be scraped each page and the number of movies displayed per 'load more' click
+MOVIECOUNTPERGENRE = 60
+MOVIESPERCLICK = 32
+
 #create, open, and write to data file
 rottenFile = open('rottenScraperData.txt', 'w')
 DELIMITER = '\t'
 movieDataHeaders = ['Movie Title', 'Critic Rating', 'Critic Rating Count', 'User Rating', 'User Rating Count', 'Genre']
 rottenFile.write(DELIMITER.join(movieDataHeaders) + '\n')
-
-#constants defining movies to be scraped each page and the number of movies displayed per 'load more' click
-MOVIECOUNTPERGENRE = 60
-MOVIESPERCLICK = 32
 
 
 #loop over each genre
